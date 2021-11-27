@@ -1,4 +1,4 @@
-### Hi there, I'm Omar 👋
+### Hi there, I'm Abdul Omar 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbdulrahmanHDH?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AbdulrahmanHDH)
 

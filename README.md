@@ -9,6 +9,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Fishing and hunting
 
+### Spotify Playing 🎧
+
+[<img src="https://toppng.com/uploads/preview/listen-on-spotify-logo-11609367646xxolakoqj1.png" alt="Abdulrahman Spotify" width="350" />](https://open.spotify.com/user/312ifcg5kspv76mby4xh5rbklawi)
+
 
 ### Connect with me:
 

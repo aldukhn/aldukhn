@@ -38,6 +38,10 @@
 <br />
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldukhn&show_icons=true&locale=en&layout=compact&hide=python" alt="aldukhn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldukhn&show_icons=true&locale=en" alt="aldukhn" /></p>
+
 ---
 
 ---

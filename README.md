@@ -4,9 +4,9 @@
 
 ## I'm a Developer, Hiker, and a Photographer!!
 
-- 🌱 I’m currently working as a Full-Stack Developer
+- 🌱 I’m currently a Full-Stack Student
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Fishing and hunting
 
 ### Spotify Playing 🎧

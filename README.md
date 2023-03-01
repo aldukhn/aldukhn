@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdul Omar 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AbdulrahmanHDH?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AbdulrahmanHDH)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ontarian0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ontarian0)
 
 ## I'm a Developer, Hiker, and a Photographer!!
 
